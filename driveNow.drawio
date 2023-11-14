@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T13:24:59.313Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="-nOe9vicspJrIiqNpPY1" version="22.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T13:25:32.292Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="XPfYoxL-sY--sM7CzxsI" version="22.1.0" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="1283" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IucwxXnB9_I8mmwoXr7Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="200" y="710" width="460" height="380" as="geometry" />
+        </mxCell>
         <mxCell id="ssYmU_9ab5f28VPRTGyQ-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="240" y="860" width="400" height="210" as="geometry" />
         </mxCell>
@@ -239,11 +242,8 @@
         <mxCell id="ssYmU_9ab5f28VPRTGyQ-86" value="Benachrichtigen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="460" y="1015" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ssYmU_9ab5f28VPRTGyQ-87" value="(fahrzeugKennzeichen)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="445" y="1034" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="IucwxXnB9_I8mmwoXr7Y-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="200" y="710" width="460" height="380" as="geometry" />
+        <mxCell id="ssYmU_9ab5f28VPRTGyQ-87" value="(fahrzeugID)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="475" y="1034" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IucwxXnB9_I8mmwoXr7Y-2" value="Fahrlehrer hinzufügen" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="194" y="706" width="140" height="30" as="geometry" />
